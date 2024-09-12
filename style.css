@@ -919,6 +919,7 @@ font-size: 14px;
 .quotesarea img {
 height: 20px; /* Smaller image size for very small screens */
 top: 20px;
+    margin-top:-70%;
 }
 
 .quotesarea p {
