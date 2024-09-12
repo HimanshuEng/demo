@@ -1266,7 +1266,7 @@ padding: 0px 12px; /* Adjust padding */
 @media (max-width: 413px) {
 
 .section_content7{
-top: 78%!important;
+top: 62%!important;
 }
 .seventh_section {
 position: relative; /* Ensure proper positioning context */
@@ -1277,7 +1277,7 @@ margin-top: 0%;
 
 .seventh_section img {
 
-height:100vh!important; 
+height:75vh!important; 
 width: 100%!important;
 position: absolute;
 left: 0%!important;       
